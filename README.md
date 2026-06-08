@@ -1,5 +1,5 @@
 # 📚 Portal do Aluno SENAI
-![alt text](image.png)
+<img width="1623" height="464" alt="image" src="https://github.com/user-attachments/assets/57d69ac0-0343-4776-8842-ba475fb409ad" />
 
 ## 📖 Descrição do Projeto
 
@@ -109,6 +109,7 @@ Recursos implementados:
 
 
 # 📚 SENAI Student Portal
+![Uploading image.png…]()
 
 ## 📖 Project Description
 
