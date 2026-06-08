@@ -1,4 +1,5 @@
 # 📚 Portal do Aluno SENAI
+![alt text](image.png)
 
 ## 📖 Descrição do Projeto
 
@@ -94,8 +95,121 @@ Recursos implementados:
 * Navegação facilitada por teclado;
 * Uso correto de elementos semânticos.
 
-## Grupo
--Fernanda Amaral
--Ryan
--Yasmin
--Vinícius
+## 👨‍👩‍👧‍👦 Grupo
+
+* Fernanda Amaral
+
+* Ryan
+
+* Yasmin
+
+* Vinícius
+
+---
+
+
+# 📚 SENAI Student Portal
+
+## 📖 Project Description
+
+The *SENAI Student Portal* is a web application developed to simulate a student registration system for courses offered by SENAI. The project was built using *HTML5, CSS3, JavaScript, Bootstrap 5, and SweetAlert2*, following best practices in usability, digital accessibility, and user experience.
+
+The platform features a modern, responsive, and accessible interface, allowing users to register quickly and intuitively.
+
+---
+
+## 🎯 Objective
+
+Develop a functional homepage for the SENAI Student Portal, providing:
+
+* Student registration for courses;
+* Responsive interface for different devices;
+* Digital accessibility features;
+* Form validation;
+* Visual feedback through SweetAlert2;
+* Intuitive and user-friendly navigation.
+
+---
+
+## 🛠️ Technologies Used
+
+* HTML5
+* CSS3
+* JavaScript
+* Bootstrap 5
+* SweetAlert2
+* VLibras
+
+---
+
+## 📋 Features
+
+### Header
+
+* "SENAI Student Portal" logo/title;
+* Responsive navigation menu using Bootstrap.
+
+### Main Banner
+
+* Featured title;
+* Informative text about the portal;
+* "Register Now" button.
+
+### Registration Form
+
+Available fields:
+
+* Full Name;
+* Email;
+* Phone Number;
+* Desired Course (Select);
+* Study Shift (Radio Button);
+* Terms Acceptance (Checkbox).
+
+### Validations
+
+* Required field verification;
+* Terms acceptance validation;
+* Error and success messages using SweetAlert2.
+
+### Accessibility Features
+
+* Integrated VLibras plugin;
+* High Contrast button;
+* Increase Font Size button;
+* Decrease Font Size button;
+* Semantic HTML structure;
+* Accessible focus on interactive elements;
+* Proper labels and descriptions for forms.
+
+### Responsiveness
+
+Compatible with:
+
+* Desktop computers;
+* Tablets;
+* Smartphones.
+
+---
+
+## ♿ Accessibility
+
+The project was developed with digital inclusion in mind.
+
+Implemented features:
+
+* Sign language translation through VLibras;
+* Contrast control for users with low vision;
+* Font size adjustment;
+* Keyboard-friendly navigation;
+* Proper use of semantic HTML elements.
+
+## 👨‍👩‍👧‍👦 Group
+
+* Fernanda Amaral
+
+* Ryan
+
+* Yasmin
+
+* Vinícius
